@@ -10,3 +10,8 @@ workspace/
 .workspace/
 .DS_Store
 npm-debug.log*
+bun.lock
+bun.lockb
+cache/
+out/
+.github/workflows/
