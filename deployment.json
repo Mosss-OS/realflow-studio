@@ -1,0 +1,22 @@
+{
+  "network": "polygon",
+  "chainId": 80002,
+  "chainName": "Polygon Amoy",
+  "rpcUrl": "https://rpc-amoy.polygon.technology/",
+  "explorerBaseUrl": "https://amoy.polygonscan.com",
+  "deployer": "0xe81e8078f2D284C92D6d97B5d4769af81e0cA11C",
+  "contracts": {
+    "RWATokenizer": "0x6ead743c9122a6c47212e4808edd49e260c1172b",
+    "MarketplaceFactory": "0x895605cfacb5f0d9de464dce03b81df73bd3783c",
+    "Marketplace": "0x32176423853891a310A874132185C02EF90A03ce"
+  },
+  "marketplace": {
+    "name": "Real Estate RWA Marketplace",
+    "description": "Fractional real estate ownership marketplace",
+    "createdAt": "2026-03-22T05:30:40.919Z"
+  },
+  "transactionHashes": {
+    "tokenizer": "0x9047c4be0ca943d0aa53fa0b8b366bb033dc0e0efb3e99a0c8c56a693b91fffb",
+    "factory": "0x1a6f18333170dc32ac52e54c9cada88f238a7a365b787fb496192359e9c672ff"
+  }
+}

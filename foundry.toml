@@ -1,0 +1,13 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["node_modules", "lib"]
+
+# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
+
+[rpc_endpoints]
+# Avalanche Fuji Testnet
+avalanche_fuji = "https://api.avax-test.network/ext/bc/C/rpc"
+
+# Polygon Amoy Testnet (existing)
+polygon_amoy = "https://rpc-amoy.polygon.technology"
